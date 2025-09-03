@@ -8,36 +8,35 @@
   I currently work for Okta as a Senior Technical Account Manager and reside in Seattle, WA.
 </p>
 
-
+<p align='center'>
+<img src="https://media.licdn.com/dms/image/v2/D5603AQFd4mFBfowQ8Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1706046647025?e=2147483647&v=beta&t=lnd0IdTbxMbPCxit7GPHZAFvLeuC4C-33tsfFZt1yIg" alt="Bryan in London">
+</p>
 
 <p align='center'>
-  
+  📫 Connect with me on LinkedIn:
+  <br>
   <a href="https://www.linkedin.com/in/bbarrows89/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://bryanbarrows.me">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://dev.to/bryanbarrows">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.twitter.com/bryanbarrows">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCGXRZbU_2IWFF7KopaVO02g">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/shreddiekruger">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
 </p>
 
-
+<hr>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:bryanbarrows@live.com'>bryanbarrows@live.com</a>
-</p>
+I serve as a dedicated technical partner and trusted advisor for Okta's largest strategic customers. My passion is helping them solve their toughest challenges, diving deep into their architecture to help them build a secure and seamless identity infrastructure for their employees and customers.
+
+My responsibilities and expertise include:
+
+* Strategic Advisement: Guiding enterprise customers through complex technical integrations and aligning their identity security strategy with key business objectives.
+
+* Cross-Functional Collaboration: Acting as a liaison between customers and Okta's Product Management, Engineering, and GTM teams to influence product development and drive customer success.
+
+* Technical Enablement: Excelling in hands-on implementation, troubleshooting, and communicating complex technical concepts to diverse audiences.
+
+* Mentorship & Advocacy: Actively mentoring and training customers and internal teams on advanced concepts, fostering product adoption through blogs, videos, and community engagement.
+<p>
+
+  <br>
 
 
 ## 📃 Resume
@@ -45,7 +44,7 @@
 ### Experience
 
 - 👨‍💻 **Senior Technical Account Manager**\
-📆 apr 2025 - current
+📆 apr 2025 - current\
 📍 **Okta** - San Francisco, CA
 
 - 👨‍💻 **Senior Product Acceleration Specialist**\
