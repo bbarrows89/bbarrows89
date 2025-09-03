@@ -40,14 +40,16 @@
 </p>
 
 
-<details>
-  <summary>📃 Resume</summary>
+## 📃 Resume
 
-## Experience
+### Experience
 
+- 👨‍💻 **Senior Technical Account Manager**\
+📆 apr 2025 - current
+📍 **Okta** - San Francisco, CA
 
-- 👨‍💻 **Okta Workflows Advocate**\
-📆 2021 - moment\
+- 👨‍💻 **Senior Product Acceleration Specialist**\
+📆 apr 2021 - apr/2025\
 📍 **Okta** - San Francisco, CA
   
 
@@ -86,10 +88,3 @@
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-
-- 🥗💻 **Catering Manager**\
-📆 2013 - 2018\
-📍 **Walla Walla Farms Cafes & Catering** - Seattle, WA
-
-</details>
-
