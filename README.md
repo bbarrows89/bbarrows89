@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  I currently work for Okta on the advocacy team for Okta Workflows and reside in Seattle, WA.
+  I currently work for Okta as a Senior Technical Account Manager and reside in Seattle, WA.
 </p>
 
 
