@@ -22,22 +22,14 @@
 
 <hr>
 
-<p align='center'>
-I serve as a dedicated technical partner and trusted advisor for Okta's largest strategic customers. My passion is helping them solve their toughest challenges, diving deep into their architecture to help them build a secure and seamless identity infrastructure for their employees and customers.
-
-My responsibilities and expertise include:
-
-* Strategic Advisement: Guiding enterprise customers through complex technical integrations and aligning their identity security strategy with key business objectives.
-
-* Cross-Functional Collaboration: Acting as a liaison between customers and Okta's Product Management, Engineering, and GTM teams to influence product development and drive customer success.
-
-* Technical Enablement: Excelling in hands-on implementation, troubleshooting, and communicating complex technical concepts to diverse audiences.
-
-* Mentorship & Advocacy: Actively mentoring and training customers and internal teams on advanced concepts, fostering product adoption through blogs, videos, and community engagement.
 <p>
+I’m a CISSP-certified technical advisor at Okta, partnering with our largest global customers to design secure, scalable identity architectures. I specialize in advanced IAM strategy, automation with Okta Workflows, and solving complex technical challenges that bridge architecture and business value.
+</p>
+<p>
+Balance is key for me—I approach identity design with both an engineer’s discipline and a musician’s creativity, blending technical depth with inventive thinking to build seamless, secure digital experiences.
+</p>
 
-  <br>
-
+<br>
 
 ## 📃 Resume
 
